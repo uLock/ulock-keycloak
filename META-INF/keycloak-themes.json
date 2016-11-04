@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "ulock-theme",
+        "types": [ "login", "account","welcome","admin" ]
+    }]
+}
