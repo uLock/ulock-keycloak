@@ -437,6 +437,9 @@
                 <cacheThemes>true</cacheThemes>
                 <cacheTemplates>true</cacheTemplates>
                 <dir>${jboss.home.dir}/themes</dir>
+		<modules>
+  		      <module>co.ulock.theme</module>
+    		</modules>
             </theme>
             <spi name="eventsStore">
                 <default-provider>jpa</default-provider>
